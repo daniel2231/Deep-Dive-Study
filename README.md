@@ -71,7 +71,7 @@ HTML, DOM | [Link 🔗]()
 
 이름 | github | git | JS 복습 | Node.js | HTML, Dom
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
-강동헌 | [Profile 😆](https://github.com/daniel2231?tab=overview&from=2020-01-01&to=2020-01-01) |[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+강동헌 | [Profile 😆](https://github.com/daniel2231?tab=overview&from=2020-01-01&to=2020-01-01) |[Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/blob/master/Study%20Notes/%EA%B0%95%EB%8F%99%ED%97%8C/git.md)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
 고남욱 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
 권준희 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
 김도현 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
