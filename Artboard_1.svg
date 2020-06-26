@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="850" height="315" viewBox="0 0 850 315">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="850" height="315" rx="30"/>
+    </clipPath>
+    <filter id="Artboard_1_Background" x="-15" y="-10" width="880" height="345" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1" clip-path="url(#clip-path)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="850" height="315" fill="#fff"/>
+    <g id="Artboard_1-2" data-name="Artboard 1">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Artboard_1_Background)">
+        <path id="Artboard_1_Background-2" data-name="Artboard 1 Background" d="M0,0H850V315H0Z" fill="#0779e4"/>
+      </g>
+      <g id="Group_1" data-name="Group 1">
+        <path id="Rectangle_2-2" data-name="Rectangle 2" d="M959-107V219H647Z" fill="#4cbbb9"/>
+        <g id="Shape_1_copy" data-name="Shape 1 copy">
+          <path id="Path_1" data-name="Path 1" d="M617.636,57.793c50.81-63.884,192.328-6.445,181.249,98.153-10.242,96.692-132.247,136.7-223.739,121.551-96.781-16.02-142.622-98.83-98.965-148C522.168,77.694,560.925,129.1,617.636,57.793Z" fill="none"/>
+          <path id="Path_2" data-name="Path 2" d="M678.486,34.014A92.1,92.1,0,0,0,661.5,35.552a77.2,77.2,0,0,0-15.744,4.7A64.626,64.626,0,0,0,619.984,59.66a172.828,172.828,0,0,1-11.471,13.084,127.732,127.732,0,0,1-11.086,10.145,92.821,92.821,0,0,1-21.175,13.055c-13.644,5.989-26.327,7.311-38.592,8.59-10.225,1.066-19.883,2.073-29.621,5.688a64.417,64.417,0,0,0-14.565,7.64,85.32,85.32,0,0,0-15.049,13.622A64.133,64.133,0,0,0,468.5,146.31a59.846,59.846,0,0,0-5.076,16.111,63.95,63.95,0,0,0-.478,16.933,74.572,74.572,0,0,0,3.944,17.253,93.814,93.814,0,0,0,14.113,25.59,121.053,121.053,0,0,0,23.32,22.926,148.171,148.171,0,0,0,31.8,18.145,176.158,176.158,0,0,0,39.514,11.27,236.425,236.425,0,0,0,38.479,3.075A258.967,258.967,0,0,0,645.4,275.7a253.843,253.843,0,0,0,30.985-5.743,229.02,229.02,0,0,0,29.59-9.573,193.318,193.318,0,0,0,27.112-13.389c17.705-10.61,32.021-23.434,42.549-38.118A110.207,110.207,0,0,0,795.9,155.63a100.507,100.507,0,0,0-4.991-44.238,106,106,0,0,0-21.5-35.813,127.888,127.888,0,0,0-42.294-30.612c-15.893-7.166-32.709-10.954-48.63-10.954m0-3c58.968,0,128.279,50.537,120.4,124.932-8.838,83.437-100.909,124.666-184.77,124.666a239.348,239.348,0,0,1-38.969-3.115c-96.781-16.02-142.622-98.83-98.965-148,45.987-51.8,84.744-.4,141.455-71.7,14.671-18.45,36.909-26.782,60.85-26.782Z" fill="#eff3c6"/>
+        </g>
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="52" cy="52" r="52" transform="translate(-37 238)" fill="#77d8d8"/>
+        <g id="Ellipse_1_copy" data-name="Ellipse 1 copy" transform="translate(432 13.47)" fill="none" stroke="#eff3c6" stroke-width="8">
+          <ellipse cx="28.31" cy="28.34" rx="28.31" ry="28.34" stroke="none"/>
+          <ellipse cx="28.31" cy="28.34" rx="24.31" ry="24.34" fill="none"/>
+        </g>
+        <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" cx="20.5" cy="20.5" r="20.5" transform="translate(298 215)" fill="#fffdf9"/>
+        <circle id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" cx="20.5" cy="20.5" r="20.5" transform="translate(801 200)" fill="#fffdf9"/>
+        <circle id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" cx="26" cy="26" r="26" transform="translate(174 -22)" fill="#77d8d8"/>
+        <path id="Shape_3" data-name="Shape 3" d="M165,290v15h13V291h14V278H178V263H165v15H152v12Z" fill="#eff3c6"/>
+        <path id="Shape_3_copy" data-name="Shape 3 copy" d="M777.175,27.857V50H796.35V29.333H817V10.143H796.35V-12H777.175V10.143H758V27.857Z" fill="#fffdf9"/>
+      </g>
+      <g id="Insert_image_here" data-name="Insert image here">
+        <path id="Shape_1" data-name="Shape 1" d="M490.064,91.367Z" fill="#464646"/>
+      </g>
+      <g id="Shape">
+        <g id="Shape_2" data-name="Shape 2">
+          <path id="Path_3" data-name="Path 3" d="M534.923,285.152,638.9,237.741,596.2,340Z" fill="none"/>
+          <path id="Path_4" data-name="Path 4" d="M619.846,257.42,552.991,287.9l39.4,35.266,27.459-65.75m19.05-19.675L596.2,340l-61.273-54.848Z" fill="#77d8d8"/>
+        </g>
+        <path id="Shape_4" data-name="Shape 4" d="M21.3,177,55,143.3v20.1L41.407,177Zm-56.959,0L55,86.344v25.688L-9.968,177Zm-52.493,0L55,33.853v21.22L-66.928,177ZM-122,177V156.128L34.127,0H55V2.581L-119.419,177Zm0-72.248L-17.248,0h20.1L-122,124.855Zm0-56.959L-74.207,0H-48.52L-122,73.48ZM-122,0h16.521L-122,16.521Z" fill="#77d8d8"/>
+      </g>
+      <g id="Text">
+        <text id="HTML_CSS_JavaScript_기초는_다_알고_더_많은_걸_배우고_싶으신_분들을_위한_스페셜_스터디_팀_" data-name="HTML, CSS, JavaScript 기초는 다 알고, 더 많은 걸 배우고 싶으신 분들을 위한 스페셜 스터디 팀!" transform="translate(107.584 165.567)" fill="#fff" font-size="17" font-family="NanumSquareR, NanumSquare"><tspan x="0" y="0">HTML, CSS, JavaScript를 넘어서 더 많은걸</tspan><tspan x="0" y="25">배우고 싶으신 분들을 위한 스페셜 스터디 팀!</tspan></text>
+        <text id="Deep_Dive_React_" data-name="Deep Dive React!" transform="translate(106.181 132.51)" fill="#fff" font-size="34.472" font-family="NanumSquareEB, NanumSquare"><tspan x="0" y="0">Deep Dive Study!</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
