@@ -1,5 +1,6 @@
-![alt text](https://github.com/daniel2231/Deep-Dive-Study/blob/master/Artboard_1.svg "Cover image")
-
+<p align="center">
+  <img src="https://github.com/daniel2231/Deep-Dive-Study/blob/master/Artboard_1.svg" alt="Deep Dive Study"/>
+</p>
 # Deep Dive Study
 저희가 이 스터디를 통해 배우게 될 내용은 다음과 같습니다.
 
