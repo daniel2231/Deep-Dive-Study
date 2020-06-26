@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/daniel2231/Deep-Dive-Study/blob/master/Artboard_1.svg" alt="Deep Dive Study"/>
 </p>
-# Deep Dive Study
+
+# Deep Dive Study 🏊🏻
+
 저희가 이 스터디를 통해 배우게 될 내용은 다음과 같습니다.
 
 ### 개발자의 생명줄, git!
@@ -54,3 +56,12 @@ JS로 HTML을 조작하는 법을 배워봅시다!
 - 프로젝트 진행 Finale! (2주) + 여러분들이 원하는 주제
     - Node.js를 이용하여 간단한 웹사이트 만들기 (기본 틀 제공)
     - 여러분들이 원하는 주제
+
+## Study Directory
+
+내용 | 링크
+------------ | -------------
+git | [Link 🔗]()
+JS 복습 | [Link 🔗]()
+Node.js | [Link 🔗]()
+HTML, DOM | [Link 🔗]()
