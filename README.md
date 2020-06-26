@@ -68,14 +68,14 @@ HTML, DOM | [Link 🔗]()
 
 ## 참여인원
 
-이름 | github
+이름 | github | git | JS 복습 | Node.js | HTML, Dom
 ------------ | -------------
-강동헌 | [Profile 😆](https://github.com/daniel2231?tab=overview&from=2020-01-01&to=2020-01-01)
-고남욱 | [Profile 😆]()
-권준희 | [Profile 😆]()
-이석범 | [Profile 😆]()
-김희현 | [Profile 😆]()
-나주안 | [Profile 😆]()
-김태원 | [Profile 😆]()
-김도현 | [Profile 😆]()
-김지윤 | [Profile 😆]()
+강동헌 | [Profile 😆](https://github.com/daniel2231?tab=overview&from=2020-01-01&to=2020-01-01) |[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+고남욱 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+권준희 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+이석범 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김희현 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+나주안 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김태원 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김도현 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김지윤 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
