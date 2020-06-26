@@ -1,2 +1,17 @@
-- name: Merge Schedule
-  uses: gr2m/merge-schedule-action@v1.0.2
+name: Merge Schedule
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+  schedule:
+    # https://crontab.guru/every-hour
+    - cron: 59 23 * * Sat
+
+jobs:
+  merge_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gr2m/merge-schedule-action@v1.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
