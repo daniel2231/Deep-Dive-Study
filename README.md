@@ -1,3 +1,5 @@
+![alt text](https://github.com/daniel2231/Deep-Dive-Study/blob/master/Artboard_1.svg "Cover image")
+
 # Deep Dive Study
 저희가 이 스터디를 통해 배우게 될 내용은 다음과 같습니다.
 
