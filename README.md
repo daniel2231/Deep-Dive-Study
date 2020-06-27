@@ -62,7 +62,7 @@ JS로 HTML을 조작하는 법을 배워봅시다!
 
 내용 | 링크
 ------------ | -------------
-git | [Link 🔗]()
+git | [Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git)
 JS 복습 | [Link 🔗]()
 Node.js | [Link 🔗]()
 HTML, DOM | [Link 🔗]()
