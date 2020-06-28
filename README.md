@@ -64,7 +64,7 @@ JS로 HTML을 조작하는 법을 배워봅시다!
 
 마크다운 사용법에 대해서 어느정도 쓰실 줄 알아야 합니다.
 
-다음 블로그를 추천드립니다. [🔗링크](https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95)
+다음 블로그를 추천드립니다. [Link 🔗](https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95)
 
 ## 스터디 방법
 
