@@ -60,14 +60,24 @@ JS로 HTML을 조작하는 법을 배워봅시다!
 
 </detail>
 
+## 스터디 선수 과제
+
+마크다운 사용법에 대해서 어느정도 쓰실 줄 알아야 합니다.
+
+다음 블로그를 추천드립니다. [🔗링크](https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95)
+
+## 스터디 방법
+
+이 스터디는 강의형 + 자기주도 학습형 스터디입니다. 스터디장이 스터디 일주일 전 다음 스터디 주제에 대한 간단한 설명과 스터디 가이드를 제공합니다. 스터디원들은 스터디 가이드 토대로 간단하게 공부하고, 공부한 내용을 글로 남깁니다. 어떻게 남기는지는 자유입니다. 
+
 ## Study Directory
 
-내용 | 링크
------------- | -------------
-git | [Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git)
-JS 복습 | [Link 🔗]()
-Node.js | [Link 🔗]()
-HTML, DOM | [Link 🔗]()
+내용 | 링크 | 스터디 가이드
+------------ | ------------- | -------------
+git | [Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git) | [Link 🔗]()
+JS 복습 | [Link 🔗]() | [Link 🔗]()
+Node.js | [Link 🔗]() | [Link 🔗]()
+HTML, DOM | [Link 🔗]() | [Link 🔗]()
 
 ## 참여인원
 
