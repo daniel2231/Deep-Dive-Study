@@ -74,7 +74,7 @@ JS로 HTML을 조작하는 법을 배워봅시다!
 
 내용 | 링크 | 스터디 가이드
 ------------ | ------------- | -------------
-git | [Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git) | [Link 🔗]()
+git | [Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git) | [Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/blob/master/Study%20guide/git.md)
 JS 복습 | [Link 🔗]() | [Link 🔗]()
 Node.js | [Link 🔗]() | [Link 🔗]()
 HTML, DOM | [Link 🔗]() | [Link 🔗]()
