@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/daniel2231/Deep-Dive-Study/blob/master/Artboard_1.svg" alt="Deep Dive Study"/>
+  <img src="logo.png" alt="Deep Dive Study"/>
 </p>
 
 # Deep Dive Study 🏊🏻
