@@ -30,7 +30,8 @@ JS로 HTML을 조작하는 법을 배워봅시다!
 
 카카오, 네이버 등 핫한 테크 기업에서도 쓰이는 Node.js를 간단하게 한번 배워 봅시다!
 
-<detail><summary><h2> 세부 커리큘럼 </h2></summary>
+## 커리큘럼
+<details><summary>자세히 보기</summary>
 
 - git, 너놈은 누구냐! (1주)
     - git이란?
@@ -58,7 +59,7 @@ JS로 HTML을 조작하는 법을 배워봅시다!
     - Node.js를 이용하여 간단한 웹사이트 만들기 (기본 틀 제공)
     - 여러분들이 원하는 주제
 
-</detail>
+</details>
 
 ## 스터디 선수 과제
 
@@ -83,11 +84,12 @@ HTML, DOM | [Link 🔗]() | [Link 🔗]()
 
 이름 | github | git | JS 복습 | Node.js | HTML, Dom
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
-강동헌 | [Profile 😆](https://github.com/daniel2231?tab=overview&from=2020-01-01&to=2020-01-01) |[Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-권준희 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-김도현 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-김지윤 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-김태원 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-김희현 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-나주안 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-이석범 | [Profile 😆]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+강동헌 | [Profile :octocat:](https://github.com/daniel2231?tab=overview&from=2020-01-01&to=2020-01-01) |[Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+권준희 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김도현 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김지윤 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김태원 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김희현 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+나주안 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+이석범 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+이원경 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
