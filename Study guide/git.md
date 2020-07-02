@@ -10,3 +10,9 @@
    - `git push origin master`
 3. git과 github의 차이는 뭘까요?
 4. git에 "HEAD"는 뭘 뜻할까요?
+
+## 추천 자료들
+
+[얄팍한 코딩사전, Git은 뭐고 Github은 뭔가요?](https://www.youtube.com/watch?v=Bd35Ze7-dIw&feature=emb_title)
+
+[[Git] 1. Git이란?(입문)](https://linked2ev.github.io/devlog/2018/08/27/Git-1.-What-is-Git/)
