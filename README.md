@@ -85,9 +85,10 @@ HTML, DOM | [Link 🔗]() | [Link 🔗]()
 이름 | github | git | JS 복습 | Node.js | HTML, Dom
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 강동헌 | [Profile :octocat:](https://github.com/daniel2231?tab=overview&from=2020-01-01&to=2020-01-01) |[Link 🔗](https://github.com/daniel2231/Deep-Dive-Study/tree/master/git)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-권준희 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-김도현 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
-김지윤 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+권준희 | [Profile :octocat:](https://github.com/juun9714)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김가희 | [Profile :octocat:](https://github.com/rkgml981105)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김도현 | [Profile :octocat:](https://github.com/doggai10)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
+김지윤 | [Profile :octocat:](https://github.com/mery0816)|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
 김태원 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
 김희현 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
 나주안 | [Profile :octocat:]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()|[Link 🔗]()
