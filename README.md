@@ -12,11 +12,6 @@ git, 개발자에게는 생명줄이라고 해도 과언이 아닙니다.
 
 버전 컨트롤 시스템의 하나인 git을 배우고, 현업에서 개발자들이 어떻게 협업을 하는지 알아봅시다!
 
-### JS의 기초, 다시 뿌수자!
-
-JS, 좀 급하게 해서 하나도 기억이 안난다구요?
-
-다시 한번 다같이 JS를 정복해 봅시다!
 
 ### JS로 HTML을? JS Dom Manipulation!
 
@@ -38,12 +33,9 @@ JS로 HTML을 조작하는 법을 배워봅시다!
     - git 초기 세팅
     - git commit
     - git push/pull
-    - bash script로 깃 자동화 하기
-- JS, 미워도 다시 한번! (1주)
-    - 변수 선언
-    - 자료형
-    - 제어문
-    - 함수
+    - git branch
+    - git checkout
+    - git merge
 - Node.js 알맹이만 쏙! (1주)
     - Node란?
     - JS 복습하기
@@ -66,6 +58,8 @@ JS로 HTML을 조작하는 법을 배워봅시다!
 마크다운 사용법에 대해서 어느정도 쓰실 줄 알아야 합니다.
 
 다음 블로그를 추천드립니다. [Link 🔗](https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95)
+
+강의때 사용한 자료입니다. [Link 🔗](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ## 스터디 방법
 
