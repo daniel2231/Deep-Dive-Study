@@ -30,4 +30,6 @@ git status
 
 [얄팍한 코딩사전, Git은 뭐고 Github은 뭔가요?](https://www.youtube.com/watch?v=Bd35Ze7-dIw&feature=emb_title)
 
-[[Git] 1. Git이란?(입문)](https://linked2ev.github.io/devlog/2018/08/27/Git-1.-What-is-Git/)
+[Git] 1. Git이란?(입문)](https://linked2ev.github.io/devlog/2018/08/27/Git-1.-What-is-Git/)
+
+[Git, Github, branch 자주 사용하는 커맨드 정리](https://m.blog.naver.com/codeitofficial/222013732490)
