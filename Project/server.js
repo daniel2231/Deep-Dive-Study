@@ -1,11 +1,11 @@
+const http = require('http');
 const express = require("express");
 const app = express();
 const port = 3000;
-// never change the fucking port pls 
 
 app.use(express.static(__dirname + "/public"));
 
-var router = require("./router");
+let router = require("./router");
 app.use(router);
 
 app.listen(port, () => {
