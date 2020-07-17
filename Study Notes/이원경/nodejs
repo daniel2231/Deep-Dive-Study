@@ -1,0 +1,95 @@
+# > Node.js studynote
+***
+### node.js란?
+- 구글 크롬의 자바스크립트 엔진(V8)에 기반해 만들어진, 서버 사이드 플랫폼
+- 자바스크립트를 활용해 고성능의 비동기I/O를 지원하는 네트워크 어플리케이션 개발 플랫폼
+- **특징**
+  - non-blocking I/O(비동기식) : 호출되는 함수가 바로 제어권을 넘겨줘서 다른 작업을 진행할 수 있도록 하는 방식
+  - 빠른 속도, 단일 스레드, 노버퍼링
+  - 브라우저와 서버 간 코드 공유
+  - 많은 라이브러리
+
+
+
+### node.js의 동작 방식
+- 구글 크롬의 V8 자바스크립트 엔진을 기본으로 동장
+- 싱글스레드 기반의 Event Loop(libuv)가 돌면서 요청 처리 --> 노드를 효율적으로 운용
+- 시스템적으로는 non-blocking I/O를 지원하지 않는 I/O 호출이 있는 경우 이를 비동기처리하기 위해 내부 Thread pool(libio)를 별도 이용해 처리
+- 상위로는 네트워크 프로토콜을 처리하는 socket, http 바인딩 모듈이 로드되고 최상단에는 node.js에서 제공하는 standard library(파일 핸들링, console 등)가 로드됨
+
+
+### JavaScript의 모듈 및 사용 방법
+- 모듈 : 더 이상 나누어지지 않는 최소 단위의 프로그램
+- 대개 클래스 하나 혹은 복수의 함수로 구설된 라이브러리 하나
+- ex) Node.js 서버를 위해 만들어진 모듈 시스템인 'CommonJS'
+- 모듈에 특수 지시자인 `export`와`import`를 사용해 다른 모듈을 불러오고 불러온 모듈에 있는 함수를 호출하는 등 기능 공유가 가능
+
+~~~JavaScript
+//export 지시자를 사용해 파일 sayHI.js 내부 함수를 외부로 내보냄
+// 📁 sayHi.js
+export function sayHi(user) {
+  alert(`Hello, ${user}!`);
+}
+
+// import 지시자를 사용해 main.js에서 함수 sayHi를 사용
+// 📁 main.js
+import {sayHi} from './sayHi.js';
+
+alert(sayHi); // 함수
+sayHi('John'); // Hello, John!
+~~~
+
+### runtime이란? + node.js에의 역할?
+- 프로그램이 실행되고 있을 때 존재하는 곳
+- 프로그래밍 언어가 구동되는 환경
+- ex) js의 경우 (1)웹 브라우저에서 작동된다는 js 측면과 (2)Node.js 환경에서 구동된다는 측면이 존재 --> 이 때 브라우저와 Node.js를 런타임이라고 볼 수 있음
+
+
+### express란?
+- Node.js의 대표적인, 가장 널리 사용되고 있는 웹 프레임워크
+  - df) 프레임워크 - 애플리케이션 개발에 바탕이 되는 템플릿과 같은 역할을 하는 클래스들과 인터페이스의 집합
+- Node.js의 API를 단순화하고 유용한 새로운 기능을 추가해 장황한 코드를 줄였음
+- 웹 응용 프로그램을 위한 기본적 시스템이 구축되어 있으며 이에 필요한 처리를 추가하는 방식으로 사용
+- 설치는 Node.js 본체의 모듈을 통해 `$ npm install express`를 명령 프롬프트에서 실행
+[link](https://junspapa-itdev.tistory.com/7)
+
+### Merge의 방법
+- 자바스크립트에서 여러 개의 객체를 하나로 병합시 `Object.assign()`함수 사용
+- `Object.assign()`함수 : 첫 번째 Object에 그 다음 Object(들)을 병합해줌
+
+### HTTP의 GET
+- HTTP 메서드 : GET, POST, PUT, PATCH, DELETE 등
+- GET 요청 방식은 URI(URL)가 가진 정보를 검색하기 위해 서버 측에 요청하는 형태
+
+***
+~~~javascript
+// server.js
+const express = require("express"); //require()함수로 모듈 불러오기(모듈 추출)
+const app = express(); //서버생성
+const port = 3000;
+
+app.use(express.static(__dirname + "/public")); //static 미들웨어 - 특정폴더를 서ㅂ의 루트폴더에 올림
+
+let router = require("./router");
+app.use(router);
+
+app.listen(port, () => { //listen() 메소드로 웹서버 설정 및 실행
+  console.log(`server is listening in port: ${port}`);
+});
+
+//router.js
+let express = require('express');
+let router = express.Router();
+const viewPath = './views/';
+
+router.get('/', (req, res) => {
+    res.sendFile(viewPath + 'index.html', { root: __dirname });
+});
+
+
+module.exports = router;
+~~~
+
+- express의 use() 메소드의 매개변수로 함수를 입력할 수 있으며, 이를 미들웨어라 칭함
+  - 서버가 받은 요청을 완료하기 전에 중간중간 여러가지 일을 처리
+- `__dirname` : 노드기본적으로 제공하는 내장 객체로 현재 경로를 알 수 있음
